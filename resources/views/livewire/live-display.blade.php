@@ -55,7 +55,7 @@
         }
 
         .font-arab {
-            font-family: 'Amiri Quran', serif !important;
+            font-family: 'Amiri', serif !important;
             font-weight: 400;
         }
 

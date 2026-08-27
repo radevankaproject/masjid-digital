@@ -12,7 +12,7 @@
 
    <style>
         /* Perbaikan: Gunakan font-family, bukan family saja */
-        .font-arab { font-family: 'Amiri Quran', serif !important; }
+        .font-arab { font-family: 'Amiri', serif !important; }
         .font-sans { font-family: 'Work Sans', sans-serif !important; }
 
         /* Sembunyikan kursor mouse saat idle */
