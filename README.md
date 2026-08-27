@@ -189,7 +189,13 @@ Sistem tab rapi untuk mengelola berbagai agenda dakwah:
 
 ## 🌐 Link Test / Demo
 
-🔗 https://demo-masjid.radevankaproject.web.id
+📺 **Video Demo (YouTube):**
+<br>
+<a href="https://www.youtube.com/watch?v=QTEimQarl6o" target="_blank">
+  <img src="https://img.youtube.com/vi/QTEimQarl6o/maxresdefault.jpg" alt="Video Demo Masjid Digital" width="600" style="border-radius:10px;">
+</a>
+
+🔗 **Web Demo:** https://demo-masjid.radevankaproject.web.id
 
 ```bash
    username : tamu@masjid.com
