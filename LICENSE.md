@@ -44,5 +44,11 @@ MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN UNTUK
 DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN TIDAK ADANYA PELANGGARAN. 
 DALAM KEADAAN APA PUN PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS 
 KLAIM, KERUSAKAN, ATAU TANGGUNG JAWAB LAINNYA, BAIK DALAM TINDAKAN KONTRAK, 
-PELANGGARAN, ATAU LAINNYA, YANG TIMBUL DARI, LUAR, ATAU SEHUBUNGAN DENGAN PERANGKAT 
 LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAIN DALAM PERANGKAT LUNAK INI.
+
+---
+
+## 🤝 Additional Terms / Ketentuan Tambahan
+
+*   **Attribution / Atribusi:** If you use, modify, or distribute this software, you **must** credit **RadevankaProject** as the original owner and creator. (Jika Anda menggunakan, memodifikasi, atau mendistribusikan perangkat lunak ini, Anda **wajib** mencantumkan **RadevankaProject** sebagai pemilik dan pembuat asli).
+*   **Collaboration / Kolaborasi:** We are open to collaboration! If you want to contribute, please reach out to us. (Kami sangat terbuka untuk kolaborasi! Jika Anda ingin berkontribusi atau mengembangkan project ini bersama, silakan hubungi kami).

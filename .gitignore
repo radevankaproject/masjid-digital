@@ -23,3 +23,9 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+/.rtk
+/.well-known/acme-challenge
+/404.html
+/502.html
+CLAUDE.md
